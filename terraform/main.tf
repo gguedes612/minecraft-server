@@ -15,8 +15,8 @@ module "virtual_machine" {
 module "DNS" {
   source = "./modules/dns/"
   public_ip = module.virtual_machine.public_ip
-  dns_name = "##"
-  route53_zone_id = "##"
+  dns_name = "minecraft.guilhermeguedes.com.br"
+  route53_zone_id = "Z04777961F9FOYBSOT7GQ"
 
 }
 
