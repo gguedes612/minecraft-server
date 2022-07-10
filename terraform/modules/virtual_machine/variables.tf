@@ -9,7 +9,7 @@ variable "ip_vm" {
 }
 
 variable "instance_type" {
-  default = "t2.micro"
+  default = "t2.medium"
   description = "Tipo da instancia"
 }
 
@@ -18,4 +18,5 @@ variable "subnet_id" {
 }
 
 variable "security_group_id" {
+  description = "Id do Security Group"
 }
