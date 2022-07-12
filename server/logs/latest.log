@@ -1,16 +1,270 @@
-[18:14:53] [ServerMain/INFO]: Building unoptimized datafixer
-[18:14:54] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:14:56] [ServerMain/INFO]: Loaded 7 recipes
-[18:14:56] [ServerMain/INFO]: Loaded 1179 advancements
-[18:14:58] [Server thread/INFO]: Starting minecraft server version 1.19
-[18:14:58] [Server thread/INFO]: Loading properties
-[18:14:58] [Server thread/INFO]: Default game type: SURVIVAL
-[18:14:58] [Server thread/INFO]: Generating keypair
-[18:14:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:14:58] [Server thread/INFO]: Using epoll channel type
-[18:14:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:14:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:14:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:14:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:14:58] [Server thread/INFO]: Preparing level "world"
-[18:14:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:04:38] [ServerMain/INFO]: Building unoptimized datafixer
+[16:04:39] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:04:41] [ServerMain/INFO]: Loaded 7 recipes
+[16:04:42] [ServerMain/INFO]: Loaded 1179 advancements
+[16:04:43] [Server thread/INFO]: Starting minecraft server version 1.19
+[16:04:43] [Server thread/INFO]: Loading properties
+[16:04:43] [Server thread/INFO]: Default game type: SURVIVAL
+[16:04:43] [Server thread/INFO]: Generating keypair
+[16:04:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:04:43] [Server thread/INFO]: Using epoll channel type
+[16:04:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:04:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:04:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:04:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:04:43] [Server thread/INFO]: Preparing level "world"
+[16:05:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:05:16] [Worker-Main-1/INFO]: Preparing spawn area: 72%
+[16:05:16] [Server thread/INFO]: Time elapsed: 9503 ms
+[16:05:16] [Server thread/INFO]: Done (32.861s)! For help, type "help"
+[16:09:25] [Server thread/INFO]: 30Ovos10Real[/177.71.59.168:49846] logged in with entity id 195 at (-6.697201311797612, 95.0, 0.7375043239742648)
+[16:09:25] [Server thread/INFO]: 30Ovos10Real joined the game
+[16:12:03] [Server thread/INFO]: T0bark[/187.64.49.161:63231] logged in with entity id 532 at (7.5, 107.0, -9.5)
+[16:12:03] [Server thread/INFO]: T0bark joined the game
+[16:12:32] [Server thread/INFO]: T0bark lost connection: Disconnected
+[16:12:32] [Server thread/INFO]: T0bark left the game
+[16:12:52] [Server thread/INFO]: T0bark[/187.64.49.161:63265] logged in with entity id 631 at (7.5, 107.0, -9.5)
+[16:12:52] [Server thread/INFO]: T0bark joined the game
+[16:17:27] [Server thread/INFO]: 30Ovos10Real hit the ground too hard
+[16:19:20] [Server thread/INFO]: T0bark has made the advancement [Stone Age]
+[16:20:34] [Server thread/INFO]: 30Ovos10Real has made the advancement [Stone Age]
+[16:23:10] [Server thread/INFO]: <30Ovos10Real> -163 xx 77
+[16:24:00] [Server thread/INFO]: 30Ovos10Real has made the advancement [Getting an Upgrade]
+[16:35:08] [Server thread/INFO]: 30Ovos10Real has made the advancement [Monster Hunter]
+[16:40:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-151, y=95, z=104} gt{x=-151, y=93, z=105}
+[16:40:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-155, y=96, z=125} gt{x=-157, y=94, z=126}
+[16:41:09] [Server thread/INFO]: 30Ovos10Real has made the advancement [Acquire Hardware]
+[16:46:16] [Server thread/INFO]: T0bark has made the advancement [Sweet Dreams]
+[16:46:17] [Server thread/INFO]: 30Ovos10Real has made the advancement [Sweet Dreams]
+[16:46:44] [Server thread/INFO]: 30Ovos10Real has made the advancement [Best Friends Forever]
+[16:50:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-455, y=65, z=247} gt{x=-456, y=63, z=246}
+[16:50:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-455, y=65, z=247} gt{x=-456, y=63, z=246}
+[16:50:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-458, y=65, z=247} gt{x=-456, y=63, z=246}
+[16:50:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-458, y=65, z=247} gt{x=-456, y=63, z=246}
+[16:50:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-458, y=65, z=247} gt{x=-456, y=63, z=246}
+[16:50:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-459, y=64, z=245} gt{x=-456, y=63, z=246}
+[16:57:03] [Server thread/INFO]: T0bark has made the advancement [Acquire Hardware]
+[17:37:58] [Server thread/INFO]: 30Ovos10Real has made the advancement [A Seedy Place]
+[17:58:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-311, y=93, z=108} gt{x=-311, y=91, z=107}
+[17:59:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-309, y=94, z=109} gt{x=-309, y=92, z=108}
+[18:00:48] [Server thread/INFO]: T0bark has made the advancement [A Seedy Place]
+[18:11:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-329, y=95, z=78} gt{x=-327, y=93, z=79}
+[18:25:11] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:30545] logged in with entity id 30728 at (4.5, 100.0, -4.5)
+[18:25:11] [Server thread/INFO]: GuardaRoupa joined the game
+[18:25:27] [Server thread/INFO]: <30Ovos10Real> -352 139
+[18:26:12] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
+[18:26:12] [Server thread/INFO]: GuardaRoupa left the game
+[18:26:15] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:31113] logged in with entity id 31083 at (-4.695457074697161, 95.0, 0.9922010102798531)
+[18:26:15] [Server thread/INFO]: GuardaRoupa joined the game
+[18:26:55] [Server thread/INFO]: <30Ovos10Real> -352 139
+[18:28:31] [Server thread/INFO]: RatoNinja[/177.180.236.104:60396] logged in with entity id 31946 at (10.5, 98.0, -8.5)
+[18:28:31] [Server thread/INFO]: RatoNinja joined the game
+[18:28:37] [Server thread/INFO]: GuardaRoupa has made the advancement [Stone Age]
+[18:28:39] [Server thread/INFO]: <30Ovos10Real> -352 139
+[18:28:40] [Server thread/INFO]: <30Ovos10Real> -352 139
+[18:28:41] [Server thread/INFO]: <30Ovos10Real> -352 139
+[18:28:42] [Server thread/INFO]: <30Ovos10Real> -352 139
+[18:29:11] [Server thread/INFO]: GuardaRoupa has made the advancement [Getting an Upgrade]
+[18:32:21] [Server thread/INFO]: GuardaRoupa has made the advancement [Monster Hunter]
+[18:33:15] [Server thread/INFO]: RatoNinja has made the advancement [Stone Age]
+[18:33:30] [Server thread/INFO]: GuardaRoupa fell from a high place
+[18:33:59] [Server thread/INFO]: RatoNinja has made the advancement [Getting an Upgrade]
+[18:35:13] [Server thread/INFO]: <RatoNinja> Opa
+[18:35:19] [Server thread/INFO]: RatoNinja has made the advancement [Acquire Hardware]
+[18:36:01] [Server thread/INFO]: RatoNinja has made the advancement [Isn't It Iron Pick]
+[18:38:12] [Server thread/INFO]: <30Ovos10Real> -352 139
+[18:38:13] [Server thread/INFO]: <30Ovos10Real> -352 139
+[18:39:28] [Server thread/INFO]: GuardaRoupa was blown up by Creeper
+[18:41:51] [Server thread/INFO]: GuardaRoupa fell from a high place
+[18:42:37] [Server thread/INFO]: GuardaRoupa has made the advancement [Acquire Hardware]
+[18:42:44] [Server thread/INFO]: GuardaRoupa has made the advancement [Suit Up]
+[18:43:01] [Server thread/INFO]: GuardaRoupa has made the advancement [Isn't It Iron Pick]
+[18:44:27] [Server thread/INFO]: RatoNinja fell from a high place
+[18:45:02] [Server thread/INFO]: T0bark has made the advancement [Monster Hunter]
+[18:46:47] [Server thread/INFO]: GuardaRoupa was shot by Skeleton
+[18:46:53] [Server thread/INFO]: RatoNinja has made the advancement [Monster Hunter]
+[18:47:44] [Server thread/INFO]: RatoNinja has made the advancement [Suit Up]
+[18:47:45] [Server thread/INFO]: RatoNinja was shot by Skeleton
+[18:48:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-302, y=107, z=175} gt{x=-304, y=105, z=175}
+[18:48:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-309, y=104, z=176} gt{x=-310, y=103, z=177}
+[18:48:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-309, y=104, z=176} gt{x=-310, y=103, z=177}
+[18:48:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-309, y=104, z=176} gt{x=-310, y=103, z=177}
+[18:48:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-309, y=104, z=175} gt{x=-310, y=103, z=175}
+[18:49:41] [Server thread/INFO]: GuardaRoupa was slain by RatoNinja
+[18:49:57] [Server thread/INFO]: <30Ovos10Real> -352 139
+[18:50:31] [Server thread/INFO]: RatoNinja was slain by Zombie
+[18:52:18] [Server thread/INFO]: RatoNinja lost connection: Disconnected
+[18:52:18] [Server thread/INFO]: RatoNinja left the game
+[18:57:10] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
+[18:57:10] [Server thread/INFO]: GuardaRoupa left the game
+[18:57:57] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:30755] logged in with entity id 43436 at (62.78517436277922, 65.0, -45.56622893318375)
+[18:57:57] [Server thread/INFO]: GuardaRoupa joined the game
+[19:00:19] [Server thread/INFO]: <30Ovos10Real> -352 139
+[19:00:20] [Server thread/INFO]: <30Ovos10Real> -352 139
+[19:02:07] [Server thread/INFO]: GuardaRoupa fell from a high place
+[19:09:56] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
+[19:09:56] [Server thread/INFO]: GuardaRoupa left the game
+[19:10:37] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:30420] logged in with entity id 48205 at (83.01183818700898, 109.0, -378.94607426710684)
+[19:10:37] [Server thread/INFO]: GuardaRoupa joined the game
+[19:11:53] [Server thread/INFO]: <30Ovos10Real> -352 139
+[19:11:54] [Server thread/INFO]: <30Ovos10Real> -352 139
+[19:15:48] [Server thread/INFO]: 30Ovos10Real has made the advancement [The Parrots and the Bats]
+[19:22:29] [Server thread/INFO]: GuardaRoupa has made the advancement [Sweet Dreams]
+[19:23:18] [Server thread/INFO]: T0bark has made the advancement [Suit Up]
+[19:27:49] [Server thread/INFO]: T0bark has made the advancement [The Parrots and the Bats]
+[19:34:38] [Server thread/INFO]: <GuardaRoupa> e
+[19:35:29] [Server thread/INFO]: Marciogameplay[/177.101.9.239:14380] logged in with entity id 54575 at (8.5, 97.0, 7.5)
+[19:35:29] [Server thread/INFO]: Marciogameplay joined the game
+[19:35:50] [Server thread/INFO]: <30Ovos10Real> -352 139
+[19:35:51] [Server thread/INFO]: <30Ovos10Real> -352 139
+[19:35:52] [Server thread/INFO]: <30Ovos10Real> -352 139
+[19:35:53] [Server thread/INFO]: <30Ovos10Real> -352 139
+[19:38:24] [Server thread/INFO]: Marciogameplay has made the advancement [Stone Age]
+[19:39:12] [Server thread/INFO]: Marciogameplay has made the advancement [Getting an Upgrade]
+[19:40:45] [Server thread/INFO]: Marciogameplay has made the advancement [Monster Hunter]
+[19:40:58] [Server thread/INFO]: T0bark has made the advancement [Getting an Upgrade]
+[19:43:54] [Server thread/INFO]: GuardaRoupa has made the advancement [Best Friends Forever]
+[19:44:16] [Server thread/INFO]: T0bark has made the advancement [Best Friends Forever]
+[19:45:50] [Server thread/INFO]: Marciogameplay lost connection: Disconnected
+[19:45:50] [Server thread/INFO]: Marciogameplay left the game
+[19:46:55] [Server thread/INFO]: Marciogameplay[/177.101.9.239:14702] logged in with entity id 59242 at (3.8592732718693643, 29.0, -26.30000001192093)
+[19:46:55] [Server thread/INFO]: Marciogameplay joined the game
+[19:52:25] [Server thread/INFO]: <30Ovos10Real> -352 139
+[19:53:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[19:53:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
+[19:54:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[19:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[19:54:29] [Server thread/INFO]: Marciogameplay fell from a high place
+[19:54:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19:55:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:55:51] [Server thread/INFO]: <GuardaRoupa> -262 1062
+[19:55:52] [Server thread/INFO]: <30Ovos10Real> -262 1062
+[19:57:06] [Server thread/INFO]: Marciogameplay lost connection: Disconnected
+[19:57:06] [Server thread/INFO]: Marciogameplay left the game
+[19:57:22] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
+[19:57:22] [Server thread/INFO]: GuardaRoupa left the game
+[19:57:43] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:30854] logged in with entity id 65827 at (-177.1211042607264, 68.0, 1023.4897907896893)
+[19:57:43] [Server thread/INFO]: GuardaRoupa joined the game
+[20:00:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 44210ms or 884 ticks behind
+[20:00:41] [Server thread/INFO]: 30Ovos10Real lost connection: Disconnected
+[20:00:41] [Server thread/INFO]: 30Ovos10Real left the game
+[20:00:41] [Server thread/INFO]: T0bark lost connection: Disconnected
+[20:00:41] [Server thread/INFO]: T0bark left the game
+[20:00:41] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
+[20:00:41] [Server thread/INFO]: GuardaRoupa left the game
+[20:00:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@6bcae8b5[id=<null>,name=30Ovos10Real,properties={},legacy=false] (/177.71.59.168:55153) lost connection: Disconnected
+[20:00:44] [Server thread/INFO]: 30Ovos10Real[/177.71.59.168:55171] logged in with entity id 67800 at (-359.5589390037584, 95.0, 110.60823510785505)
+[20:00:44] [Server thread/INFO]: 30Ovos10Real joined the game
+[20:00:50] [Server thread/INFO]: T0bark[/187.64.49.161:57566] logged in with entity id 68041 at (-319.98386842585916, 95.0, 96.84096299301373)
+[20:00:50] [Server thread/INFO]: T0bark joined the game
+[20:00:52] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:30415] logged in with entity id 68063 at (158.69999998807907, 58.89704225241778, 1039.9346212961639)
+[20:00:52] [Server thread/INFO]: GuardaRoupa joined the game
+[20:06:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20:07:02] [Server thread/INFO]: RatoNinja[/177.180.236.104:61650] logged in with entity id 72118 at (19.62555364372264, 26.0, 16.348261743446443)
+[20:07:02] [Server thread/INFO]: RatoNinja joined the game
+[20:07:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 48523ms or 970 ticks behind
+[20:07:24] [Server thread/INFO]: RatoNinja lost connection: Disconnected
+[20:07:24] [Server thread/INFO]: RatoNinja left the game
+[20:08:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 51896ms or 1037 ticks behind
+[20:09:11] [Server thread/INFO]: <30Ovos10Real> -350 100
+[20:09:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 50951ms or 1019 ticks behind
+[20:10:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21137ms or 422 ticks behind
+[20:11:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
+[20:11:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28086ms or 561 ticks behind
+[20:12:36] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
+[20:12:36] [Server thread/INFO]: GuardaRoupa left the game
+[20:12:39] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:30337] logged in with entity id 74342 at (529.3682639391055, 71.0, 1157.9363529363568)
+[20:12:39] [Server thread/INFO]: GuardaRoupa joined the game
+[20:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36963ms or 739 ticks behind
+[20:12:48] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
+[20:12:48] [Server thread/INFO]: GuardaRoupa left the game
+[20:13:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8473ms or 169 ticks behind
+[20:13:16] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:31069] logged in with entity id 74640 at (547.916766982709, 71.0, 1166.2096047907319)
+[20:13:16] [Server thread/INFO]: GuardaRoupa joined the game
+[20:13:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6729ms or 134 ticks behind
+[20:14:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39701ms or 794 ticks behind
+[20:15:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25481ms or 509 ticks behind
+[20:16:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[20:16:37] [Server thread/INFO]: <30Ovos10Real> -350 100
+[20:17:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27563ms or 551 ticks behind
+[20:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33445ms or 668 ticks behind
+[20:18:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34738ms or 694 ticks behind
+[20:19:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25471ms or 509 ticks behind
+[20:20:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27425ms or 548 ticks behind
+[20:21:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[20:22:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16239ms or 324 ticks behind
+[20:22:12] [Server thread/INFO]: <30Ovos10Real> -350 100
+[20:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5368ms or 107 ticks behind
+[20:22:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4645ms or 92 ticks behind
+[20:23:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8842ms or 176 ticks behind
+[20:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[20:23:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[20:24:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20:24:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20:25:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[20:27:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20:28:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[20:28:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[20:29:04] [Server thread/INFO]: T0bark lost connection: Disconnected
+[20:29:04] [Server thread/INFO]: T0bark left the game
+[20:29:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[20:32:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:32:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20:33:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[20:33:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:34:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20:34:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20:37:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[20:37:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[20:38:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[20:39:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20:41:46] [Server thread/INFO]: GuardaRoupa has made the advancement [Diamonds!]
+[20:42:54] [Server thread/INFO]: <GuardaRoupa> -394 -18,00000 103
+[20:43:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[20:43:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[20:44:07] [Server thread/INFO]: GuardaRoupa was slain by Zombie
+[20:44:22] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
+[20:44:22] [Server thread/INFO]: GuardaRoupa left the game
+[20:44:25] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:30465] logged in with entity id 83495 at (-342.5, 98.5625, 145.5)
+[20:44:25] [Server thread/INFO]: GuardaRoupa joined the game
+[20:44:30] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
+[20:44:30] [Server thread/INFO]: GuardaRoupa left the game
+[20:44:31] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:30469] logged in with entity id 83508 at (-342.5, 98.5625, 145.5)
+[20:44:31] [Server thread/INFO]: GuardaRoupa joined the game
+[20:44:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:48:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[20:49:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[20:49:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20:52:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[20:53:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:54:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[20:55:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20:56:27] [Server thread/INFO]: GuardaRoupa has made the advancement [Sneak 100]
+[20:56:36] [Server thread/INFO]: GuardaRoupa tried to swim in lava to escape Warden
+[20:56:49] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
+[20:56:49] [Server thread/INFO]: GuardaRoupa left the game
+[20:56:51] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:31193] logged in with entity id 85240 at (-342.45408667908424, 98.0, 143.64481278387527)
+[20:56:51] [Server thread/INFO]: GuardaRoupa joined the game
+[20:57:08] [Server thread/INFO]: 30Ovos10Real lost connection: Disconnected
+[20:57:08] [Server thread/INFO]: 30Ovos10Real left the game
+[20:57:15] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
+[20:57:15] [Server thread/INFO]: GuardaRoupa left the game
+[21:01:15] [Server thread/INFO]: Stopping server
