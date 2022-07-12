@@ -1,15 +1,15 @@
 variable "ami" {
-  default = "ami-0960ab670c8bb45f3"
+  default     = "ami-0960ab670c8bb45f3"
   description = "Imagem que sera usada na imagem (Ubuntu 20.04 como default)"
 }
 
 variable "ip_vm" {
-  default = "10.0.0.6"
+  default     = "10.0.0.6"
   description = "IP da maquina virtual"
 }
 
 variable "instance_type" {
-  default = "t2.medium"
+  default     = "t2.medium"
   description = "Tipo da instancia"
 }
 

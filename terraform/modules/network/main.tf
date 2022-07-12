@@ -7,10 +7,10 @@ resource "aws_internet_gateway" "igw" {
 }
 
 resource "aws_subnet" "public_subnet" {
-  vpc_id     = aws_vpc.vpc.id
-  cidr_block = var.subnet_cidr_block
+  vpc_id                  = aws_vpc.vpc.id
+  cidr_block              = var.subnet_cidr_block
   map_public_ip_on_launch = true
-  availability_zone = var.availability_zone
+  availability_zone       = var.availability_zone
 }
 
 resource "aws_route_table" "public_rt" {
@@ -29,27 +29,27 @@ resource "aws_route_table_association" "main" {
 
 resource "aws_security_group" "sg" {
   vpc_id = aws_vpc.vpc.id
-  
+
   ingress {
-    description      = "SSH"
-    from_port        = 22
-    to_port          = 22
-    protocol         = "tcp"
-    cidr_blocks      = ["0.0.0.0/0"]
+    description = "SSH"
+    from_port   = 22
+    to_port     = 22
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
   }
-  
+
   ingress {
-    description      = "Minecraft Server Port"
-    from_port         = 25565
-    to_port           = 25565
-    protocol          = "tcp"
-    cidr_blocks       = ["0.0.0.0/0"]
+    description = "Minecraft Server Port"
+    from_port   = 25565
+    to_port     = 25565
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
   }
   egress {
-    from_port = 0
-    to_port = 0
-    protocol = "-1"
-    cidr_blocks = ["0.0.0.0/0"]
+    from_port        = 0
+    to_port          = 0
+    protocol         = "-1"
+    cidr_blocks      = ["0.0.0.0/0"]
     ipv6_cidr_blocks = ["::/0"]
   }
 }
