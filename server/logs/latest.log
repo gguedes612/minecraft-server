@@ -1,270 +1,235 @@
-[16:04:38] [ServerMain/INFO]: Building unoptimized datafixer
-[16:04:39] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:04:41] [ServerMain/INFO]: Loaded 7 recipes
-[16:04:42] [ServerMain/INFO]: Loaded 1179 advancements
-[16:04:43] [Server thread/INFO]: Starting minecraft server version 1.19
-[16:04:43] [Server thread/INFO]: Loading properties
-[16:04:43] [Server thread/INFO]: Default game type: SURVIVAL
-[16:04:43] [Server thread/INFO]: Generating keypair
-[16:04:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:04:43] [Server thread/INFO]: Using epoll channel type
-[16:04:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:04:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:04:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:04:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:04:43] [Server thread/INFO]: Preparing level "world"
-[16:05:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:05:16] [Worker-Main-1/INFO]: Preparing spawn area: 72%
-[16:05:16] [Server thread/INFO]: Time elapsed: 9503 ms
-[16:05:16] [Server thread/INFO]: Done (32.861s)! For help, type "help"
-[16:09:25] [Server thread/INFO]: 30Ovos10Real[/177.71.59.168:49846] logged in with entity id 195 at (-6.697201311797612, 95.0, 0.7375043239742648)
-[16:09:25] [Server thread/INFO]: 30Ovos10Real joined the game
-[16:12:03] [Server thread/INFO]: T0bark[/187.64.49.161:63231] logged in with entity id 532 at (7.5, 107.0, -9.5)
-[16:12:03] [Server thread/INFO]: T0bark joined the game
-[16:12:32] [Server thread/INFO]: T0bark lost connection: Disconnected
-[16:12:32] [Server thread/INFO]: T0bark left the game
-[16:12:52] [Server thread/INFO]: T0bark[/187.64.49.161:63265] logged in with entity id 631 at (7.5, 107.0, -9.5)
-[16:12:52] [Server thread/INFO]: T0bark joined the game
-[16:17:27] [Server thread/INFO]: 30Ovos10Real hit the ground too hard
-[16:19:20] [Server thread/INFO]: T0bark has made the advancement [Stone Age]
-[16:20:34] [Server thread/INFO]: 30Ovos10Real has made the advancement [Stone Age]
-[16:23:10] [Server thread/INFO]: <30Ovos10Real> -163 xx 77
-[16:24:00] [Server thread/INFO]: 30Ovos10Real has made the advancement [Getting an Upgrade]
-[16:35:08] [Server thread/INFO]: 30Ovos10Real has made the advancement [Monster Hunter]
-[16:40:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-151, y=95, z=104} gt{x=-151, y=93, z=105}
-[16:40:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-155, y=96, z=125} gt{x=-157, y=94, z=126}
-[16:41:09] [Server thread/INFO]: 30Ovos10Real has made the advancement [Acquire Hardware]
-[16:46:16] [Server thread/INFO]: T0bark has made the advancement [Sweet Dreams]
-[16:46:17] [Server thread/INFO]: 30Ovos10Real has made the advancement [Sweet Dreams]
-[16:46:44] [Server thread/INFO]: 30Ovos10Real has made the advancement [Best Friends Forever]
-[16:50:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-455, y=65, z=247} gt{x=-456, y=63, z=246}
-[16:50:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-455, y=65, z=247} gt{x=-456, y=63, z=246}
-[16:50:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-458, y=65, z=247} gt{x=-456, y=63, z=246}
-[16:50:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-458, y=65, z=247} gt{x=-456, y=63, z=246}
-[16:50:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-458, y=65, z=247} gt{x=-456, y=63, z=246}
-[16:50:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-459, y=64, z=245} gt{x=-456, y=63, z=246}
-[16:57:03] [Server thread/INFO]: T0bark has made the advancement [Acquire Hardware]
-[17:37:58] [Server thread/INFO]: 30Ovos10Real has made the advancement [A Seedy Place]
-[17:58:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-311, y=93, z=108} gt{x=-311, y=91, z=107}
-[17:59:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-309, y=94, z=109} gt{x=-309, y=92, z=108}
-[18:00:48] [Server thread/INFO]: T0bark has made the advancement [A Seedy Place]
-[18:11:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-329, y=95, z=78} gt{x=-327, y=93, z=79}
-[18:25:11] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:30545] logged in with entity id 30728 at (4.5, 100.0, -4.5)
-[18:25:11] [Server thread/INFO]: GuardaRoupa joined the game
-[18:25:27] [Server thread/INFO]: <30Ovos10Real> -352 139
-[18:26:12] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
-[18:26:12] [Server thread/INFO]: GuardaRoupa left the game
-[18:26:15] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:31113] logged in with entity id 31083 at (-4.695457074697161, 95.0, 0.9922010102798531)
-[18:26:15] [Server thread/INFO]: GuardaRoupa joined the game
-[18:26:55] [Server thread/INFO]: <30Ovos10Real> -352 139
-[18:28:31] [Server thread/INFO]: RatoNinja[/177.180.236.104:60396] logged in with entity id 31946 at (10.5, 98.0, -8.5)
-[18:28:31] [Server thread/INFO]: RatoNinja joined the game
-[18:28:37] [Server thread/INFO]: GuardaRoupa has made the advancement [Stone Age]
-[18:28:39] [Server thread/INFO]: <30Ovos10Real> -352 139
-[18:28:40] [Server thread/INFO]: <30Ovos10Real> -352 139
-[18:28:41] [Server thread/INFO]: <30Ovos10Real> -352 139
-[18:28:42] [Server thread/INFO]: <30Ovos10Real> -352 139
-[18:29:11] [Server thread/INFO]: GuardaRoupa has made the advancement [Getting an Upgrade]
-[18:32:21] [Server thread/INFO]: GuardaRoupa has made the advancement [Monster Hunter]
-[18:33:15] [Server thread/INFO]: RatoNinja has made the advancement [Stone Age]
-[18:33:30] [Server thread/INFO]: GuardaRoupa fell from a high place
-[18:33:59] [Server thread/INFO]: RatoNinja has made the advancement [Getting an Upgrade]
-[18:35:13] [Server thread/INFO]: <RatoNinja> Opa
-[18:35:19] [Server thread/INFO]: RatoNinja has made the advancement [Acquire Hardware]
-[18:36:01] [Server thread/INFO]: RatoNinja has made the advancement [Isn't It Iron Pick]
-[18:38:12] [Server thread/INFO]: <30Ovos10Real> -352 139
-[18:38:13] [Server thread/INFO]: <30Ovos10Real> -352 139
-[18:39:28] [Server thread/INFO]: GuardaRoupa was blown up by Creeper
-[18:41:51] [Server thread/INFO]: GuardaRoupa fell from a high place
-[18:42:37] [Server thread/INFO]: GuardaRoupa has made the advancement [Acquire Hardware]
-[18:42:44] [Server thread/INFO]: GuardaRoupa has made the advancement [Suit Up]
-[18:43:01] [Server thread/INFO]: GuardaRoupa has made the advancement [Isn't It Iron Pick]
-[18:44:27] [Server thread/INFO]: RatoNinja fell from a high place
-[18:45:02] [Server thread/INFO]: T0bark has made the advancement [Monster Hunter]
-[18:46:47] [Server thread/INFO]: GuardaRoupa was shot by Skeleton
-[18:46:53] [Server thread/INFO]: RatoNinja has made the advancement [Monster Hunter]
-[18:47:44] [Server thread/INFO]: RatoNinja has made the advancement [Suit Up]
-[18:47:45] [Server thread/INFO]: RatoNinja was shot by Skeleton
-[18:48:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-302, y=107, z=175} gt{x=-304, y=105, z=175}
-[18:48:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-309, y=104, z=176} gt{x=-310, y=103, z=177}
-[18:48:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-309, y=104, z=176} gt{x=-310, y=103, z=177}
-[18:48:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-309, y=104, z=176} gt{x=-310, y=103, z=177}
-[18:48:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-309, y=104, z=175} gt{x=-310, y=103, z=175}
-[18:49:41] [Server thread/INFO]: GuardaRoupa was slain by RatoNinja
-[18:49:57] [Server thread/INFO]: <30Ovos10Real> -352 139
-[18:50:31] [Server thread/INFO]: RatoNinja was slain by Zombie
-[18:52:18] [Server thread/INFO]: RatoNinja lost connection: Disconnected
-[18:52:18] [Server thread/INFO]: RatoNinja left the game
-[18:57:10] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
-[18:57:10] [Server thread/INFO]: GuardaRoupa left the game
-[18:57:57] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:30755] logged in with entity id 43436 at (62.78517436277922, 65.0, -45.56622893318375)
-[18:57:57] [Server thread/INFO]: GuardaRoupa joined the game
-[19:00:19] [Server thread/INFO]: <30Ovos10Real> -352 139
-[19:00:20] [Server thread/INFO]: <30Ovos10Real> -352 139
-[19:02:07] [Server thread/INFO]: GuardaRoupa fell from a high place
-[19:09:56] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
-[19:09:56] [Server thread/INFO]: GuardaRoupa left the game
-[19:10:37] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:30420] logged in with entity id 48205 at (83.01183818700898, 109.0, -378.94607426710684)
-[19:10:37] [Server thread/INFO]: GuardaRoupa joined the game
-[19:11:53] [Server thread/INFO]: <30Ovos10Real> -352 139
-[19:11:54] [Server thread/INFO]: <30Ovos10Real> -352 139
-[19:15:48] [Server thread/INFO]: 30Ovos10Real has made the advancement [The Parrots and the Bats]
-[19:22:29] [Server thread/INFO]: GuardaRoupa has made the advancement [Sweet Dreams]
-[19:23:18] [Server thread/INFO]: T0bark has made the advancement [Suit Up]
-[19:27:49] [Server thread/INFO]: T0bark has made the advancement [The Parrots and the Bats]
-[19:34:38] [Server thread/INFO]: <GuardaRoupa> e
-[19:35:29] [Server thread/INFO]: Marciogameplay[/177.101.9.239:14380] logged in with entity id 54575 at (8.5, 97.0, 7.5)
-[19:35:29] [Server thread/INFO]: Marciogameplay joined the game
-[19:35:50] [Server thread/INFO]: <30Ovos10Real> -352 139
-[19:35:51] [Server thread/INFO]: <30Ovos10Real> -352 139
-[19:35:52] [Server thread/INFO]: <30Ovos10Real> -352 139
-[19:35:53] [Server thread/INFO]: <30Ovos10Real> -352 139
-[19:38:24] [Server thread/INFO]: Marciogameplay has made the advancement [Stone Age]
-[19:39:12] [Server thread/INFO]: Marciogameplay has made the advancement [Getting an Upgrade]
-[19:40:45] [Server thread/INFO]: Marciogameplay has made the advancement [Monster Hunter]
-[19:40:58] [Server thread/INFO]: T0bark has made the advancement [Getting an Upgrade]
-[19:43:54] [Server thread/INFO]: GuardaRoupa has made the advancement [Best Friends Forever]
-[19:44:16] [Server thread/INFO]: T0bark has made the advancement [Best Friends Forever]
-[19:45:50] [Server thread/INFO]: Marciogameplay lost connection: Disconnected
-[19:45:50] [Server thread/INFO]: Marciogameplay left the game
-[19:46:55] [Server thread/INFO]: Marciogameplay[/177.101.9.239:14702] logged in with entity id 59242 at (3.8592732718693643, 29.0, -26.30000001192093)
-[19:46:55] [Server thread/INFO]: Marciogameplay joined the game
-[19:52:25] [Server thread/INFO]: <30Ovos10Real> -352 139
-[19:53:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[19:53:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
-[19:54:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[19:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[19:54:29] [Server thread/INFO]: Marciogameplay fell from a high place
-[19:54:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[19:55:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:55:51] [Server thread/INFO]: <GuardaRoupa> -262 1062
-[19:55:52] [Server thread/INFO]: <30Ovos10Real> -262 1062
-[19:57:06] [Server thread/INFO]: Marciogameplay lost connection: Disconnected
-[19:57:06] [Server thread/INFO]: Marciogameplay left the game
-[19:57:22] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
-[19:57:22] [Server thread/INFO]: GuardaRoupa left the game
-[19:57:43] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:30854] logged in with entity id 65827 at (-177.1211042607264, 68.0, 1023.4897907896893)
-[19:57:43] [Server thread/INFO]: GuardaRoupa joined the game
-[20:00:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 44210ms or 884 ticks behind
-[20:00:41] [Server thread/INFO]: 30Ovos10Real lost connection: Disconnected
-[20:00:41] [Server thread/INFO]: 30Ovos10Real left the game
-[20:00:41] [Server thread/INFO]: T0bark lost connection: Disconnected
-[20:00:41] [Server thread/INFO]: T0bark left the game
-[20:00:41] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
-[20:00:41] [Server thread/INFO]: GuardaRoupa left the game
-[20:00:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@6bcae8b5[id=<null>,name=30Ovos10Real,properties={},legacy=false] (/177.71.59.168:55153) lost connection: Disconnected
-[20:00:44] [Server thread/INFO]: 30Ovos10Real[/177.71.59.168:55171] logged in with entity id 67800 at (-359.5589390037584, 95.0, 110.60823510785505)
-[20:00:44] [Server thread/INFO]: 30Ovos10Real joined the game
-[20:00:50] [Server thread/INFO]: T0bark[/187.64.49.161:57566] logged in with entity id 68041 at (-319.98386842585916, 95.0, 96.84096299301373)
-[20:00:50] [Server thread/INFO]: T0bark joined the game
-[20:00:52] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:30415] logged in with entity id 68063 at (158.69999998807907, 58.89704225241778, 1039.9346212961639)
-[20:00:52] [Server thread/INFO]: GuardaRoupa joined the game
-[20:06:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[20:07:02] [Server thread/INFO]: RatoNinja[/177.180.236.104:61650] logged in with entity id 72118 at (19.62555364372264, 26.0, 16.348261743446443)
-[20:07:02] [Server thread/INFO]: RatoNinja joined the game
-[20:07:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 48523ms or 970 ticks behind
-[20:07:24] [Server thread/INFO]: RatoNinja lost connection: Disconnected
-[20:07:24] [Server thread/INFO]: RatoNinja left the game
-[20:08:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 51896ms or 1037 ticks behind
-[20:09:11] [Server thread/INFO]: <30Ovos10Real> -350 100
-[20:09:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 50951ms or 1019 ticks behind
-[20:10:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21137ms or 422 ticks behind
-[20:11:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
-[20:11:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28086ms or 561 ticks behind
-[20:12:36] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
-[20:12:36] [Server thread/INFO]: GuardaRoupa left the game
-[20:12:39] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:30337] logged in with entity id 74342 at (529.3682639391055, 71.0, 1157.9363529363568)
-[20:12:39] [Server thread/INFO]: GuardaRoupa joined the game
-[20:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36963ms or 739 ticks behind
-[20:12:48] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
-[20:12:48] [Server thread/INFO]: GuardaRoupa left the game
-[20:13:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8473ms or 169 ticks behind
-[20:13:16] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:31069] logged in with entity id 74640 at (547.916766982709, 71.0, 1166.2096047907319)
-[20:13:16] [Server thread/INFO]: GuardaRoupa joined the game
-[20:13:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6729ms or 134 ticks behind
-[20:14:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39701ms or 794 ticks behind
-[20:15:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25481ms or 509 ticks behind
-[20:16:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
-[20:16:37] [Server thread/INFO]: <30Ovos10Real> -350 100
-[20:17:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27563ms or 551 ticks behind
-[20:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33445ms or 668 ticks behind
-[20:18:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34738ms or 694 ticks behind
-[20:19:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25471ms or 509 ticks behind
-[20:20:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27425ms or 548 ticks behind
-[20:21:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
-[20:22:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16239ms or 324 ticks behind
-[20:22:12] [Server thread/INFO]: <30Ovos10Real> -350 100
-[20:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5368ms or 107 ticks behind
-[20:22:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4645ms or 92 ticks behind
-[20:23:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8842ms or 176 ticks behind
-[20:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
-[20:23:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[20:24:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[20:24:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[20:25:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
-[20:27:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[20:28:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[20:28:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[20:29:04] [Server thread/INFO]: T0bark lost connection: Disconnected
-[20:29:04] [Server thread/INFO]: T0bark left the game
-[20:29:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[20:32:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[20:32:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[20:33:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[20:33:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[20:34:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[20:34:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[20:37:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[20:37:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[20:38:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[20:39:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[20:41:46] [Server thread/INFO]: GuardaRoupa has made the advancement [Diamonds!]
-[20:42:54] [Server thread/INFO]: <GuardaRoupa> -394 -18,00000 103
-[20:43:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[20:43:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[20:44:07] [Server thread/INFO]: GuardaRoupa was slain by Zombie
-[20:44:22] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
-[20:44:22] [Server thread/INFO]: GuardaRoupa left the game
-[20:44:25] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:30465] logged in with entity id 83495 at (-342.5, 98.5625, 145.5)
-[20:44:25] [Server thread/INFO]: GuardaRoupa joined the game
-[20:44:30] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
-[20:44:30] [Server thread/INFO]: GuardaRoupa left the game
-[20:44:31] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:30469] logged in with entity id 83508 at (-342.5, 98.5625, 145.5)
-[20:44:31] [Server thread/INFO]: GuardaRoupa joined the game
-[20:44:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[20:48:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[20:49:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[20:49:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[20:52:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[20:53:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[20:54:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[20:55:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[20:56:27] [Server thread/INFO]: GuardaRoupa has made the advancement [Sneak 100]
-[20:56:36] [Server thread/INFO]: GuardaRoupa tried to swim in lava to escape Warden
-[20:56:49] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
-[20:56:49] [Server thread/INFO]: GuardaRoupa left the game
-[20:56:51] [Server thread/INFO]: GuardaRoupa[/179.106.5.225:31193] logged in with entity id 85240 at (-342.45408667908424, 98.0, 143.64481278387527)
-[20:56:51] [Server thread/INFO]: GuardaRoupa joined the game
-[20:57:08] [Server thread/INFO]: 30Ovos10Real lost connection: Disconnected
-[20:57:08] [Server thread/INFO]: 30Ovos10Real left the game
-[20:57:15] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
-[20:57:15] [Server thread/INFO]: GuardaRoupa left the game
-[21:01:15] [Server thread/INFO]: Stopping server
+[00:52:38] [ServerMain/INFO]: Building unoptimized datafixer
+[00:52:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:52:42] [ServerMain/INFO]: Loaded 7 recipes
+[00:52:43] [ServerMain/INFO]: Loaded 1179 advancements
+[00:52:44] [Server thread/INFO]: Starting minecraft server version 1.19
+[00:52:44] [Server thread/INFO]: Loading properties
+[00:52:44] [Server thread/INFO]: Default game type: SURVIVAL
+[00:52:44] [Server thread/INFO]: Generating keypair
+[00:52:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:52:44] [Server thread/INFO]: Using epoll channel type
+[00:52:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:52:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:52:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:52:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:52:44] [Server thread/INFO]: Preparing level "world"
+[00:53:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:53:12] [Worker-Main-1/INFO]: Preparing spawn area: 17%
+[00:53:13] [Server thread/INFO]: Time elapsed: 11230 ms
+[00:53:13] [Server thread/INFO]: Done (28.688s)! For help, type "help"
+[00:57:12] [Server thread/INFO]: 30Ovos10Real[/177.71.59.168:52120] logged in with entity id 105 at (-350.86367819628333, 95.0, 123.32759591312862)
+[00:57:12] [Server thread/INFO]: 30Ovos10Real joined the game
+[00:57:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[01:19:29] [Server thread/INFO]: GuardaRoupa[/177.101.3.248:53122] logged in with entity id 4510 at (-342.5, 98.5625, 145.5)
+[01:19:29] [Server thread/INFO]: GuardaRoupa joined the game
+[01:19:51] [Server thread/INFO]: <GuardaRoupa> i need iron
+[01:21:33] [Server thread/INFO]: <30Ovos10Real> bora dormir
+[01:21:44] [Server thread/INFO]: <30Ovos10Real> bora dormir
+[01:27:28] [Server thread/INFO]: luansantosfs[/187.19.176.176:9550] logged in with entity id 6193 at (2.5, 99.0, -4.5)
+[01:27:28] [Server thread/INFO]: luansantosfs joined the game
+[01:27:47] [Server thread/INFO]: <30Ovos10Real> -364 90
+[01:31:10] [Server thread/INFO]: Sergio[/200.33.167.1:31135] logged in with entity id 7467 at (7.5, 100.0, 9.5)
+[01:31:10] [Server thread/INFO]: Sergio joined the game
+[01:31:20] [Server thread/INFO]: <30Ovos10Real> -364 90
+[01:31:21] [Server thread/INFO]: <30Ovos10Real> -364 90
+[01:31:22] [Server thread/INFO]: <30Ovos10Real> -364 90
+[01:33:17] [Server thread/INFO]: luansantosfs has made the advancement [Sweet Dreams]
+[01:34:09] [Server thread/INFO]: Sergio lost connection: Disconnected
+[01:34:09] [Server thread/INFO]: Sergio left the game
+[01:34:35] [Server thread/INFO]: luansantosfs has made the advancement [Stone Age]
+[01:35:42] [Server thread/INFO]: Sergio[/200.33.167.1:32289] logged in with entity id 8915 at (-30.56445636325972, 106.0, -35.43310140924195)
+[01:35:42] [Server thread/INFO]: Sergio joined the game
+[01:35:46] [Server thread/INFO]: Sergio lost connection: Disconnected
+[01:35:46] [Server thread/INFO]: Sergio left the game
+[01:35:53] [Server thread/INFO]: Sergio[/200.33.167.1:32496] logged in with entity id 9042 at (-30.56445636325972, 106.0, -35.43310140924195)
+[01:35:53] [Server thread/INFO]: Sergio joined the game
+[01:36:18] [Server thread/INFO]: <30Ovos10Real> -364 90
+[01:36:19] [Server thread/INFO]: <30Ovos10Real> -364 90
+[01:36:36] [Server thread/INFO]: luansantosfs has made the advancement [Getting an Upgrade]
+[01:37:52] [Server thread/INFO]: Sergio has made the advancement [Monster Hunter]
+[01:38:54] [Server thread/INFO]: <30Ovos10Real> -364 90
+[01:38:55] [Server thread/INFO]: <30Ovos10Real> -364 90
+[01:40:19] [Server thread/INFO]: Sergio was blown up by Creeper
+[01:41:09] [Server thread/INFO]: luansantosfs has made the advancement [Monster Hunter]
+[01:44:11] [Server thread/INFO]: RatoNinja[/177.180.236.104:58336] logged in with entity id 14096 at (19.62555364372264, 26.0, 16.348261743446443)
+[01:44:11] [Server thread/INFO]: RatoNinja joined the game
+[01:44:22] [Server thread/INFO]: Sergio has made the advancement [Ice Bucket Challenge]
+[01:44:24] [Server thread/INFO]: Sergio has made the advancement [Suit Up]
+[01:44:51] [Server thread/INFO]: <luansantosfs> -364 90
+[01:44:52] [Server thread/INFO]: <30Ovos10Real> -364 90
+[01:45:11] [Server thread/INFO]: <Sergio> 538 210
+[01:46:45] [Server thread/INFO]: Sergio drowned
+[01:46:52] [Server thread/INFO]: <30Ovos10Real> 537 210
+[01:47:51] [Server thread/INFO]: <30Ovos10Real> -364 90
+[01:50:07] [Server thread/INFO]: <30Ovos10Real> 100 277
+[01:50:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[01:51:05] [Server thread/INFO]: <30Ovos10Real> 537 210
+[01:51:23] [Server thread/INFO]: Sergio has made the advancement [Stone Age]
+[01:51:58] [Server thread/INFO]: Sergio has made the advancement [Getting an Upgrade]
+[01:53:17] [Server thread/INFO]: Villager bss['Shepherd'/17953, l='ServerLevel[world]', x=529.48, y=64.00, z=179.16] died, message: 'Shepherd was slain by luansantosfs'
+[01:55:03] [Server thread/INFO]: Sergio was shot by Skeleton
+[01:58:03] [Server thread/INFO]: luansantosfs has made the advancement [Acquire Hardware]
+[01:58:36] [Server thread/INFO]: <30Ovos10Real> -364 90
+[02:00:20] [Server thread/INFO]: luansantosfs fell from a high place
+[02:01:46] [Server thread/INFO]: luansantosfs has made the advancement [The Parrots and the Bats]
+[02:02:11] [Server thread/INFO]: <30Ovos10Real> -364 90
+[02:02:13] [Server thread/INFO]: Villager bss['Villager'/18521, l='ServerLevel[world]', x=536.98, y=64.00, z=201.70] died, message: 'Villager was slain by Zombie'
+[02:02:57] [Server thread/INFO]: Villager bss['Shepherd'/18254, l='ServerLevel[world]', x=517.70, y=63.00, z=177.51] died, message: 'Shepherd was slain by Zombie'
+[02:03:19] [Server thread/INFO]: Villager bss['Shepherd'/17952, l='ServerLevel[world]', x=502.30, y=64.00, z=179.43] died, message: 'Shepherd was slain by Zombie'
+[02:06:53] [Server thread/INFO]: GuardaRoupa has made the advancement [Ice Bucket Challenge]
+[02:07:28] [Server thread/INFO]: Sergio has made the advancement [Acquire Hardware]
+[02:07:33] [Server thread/INFO]: Sergio has made the advancement [Isn't It Iron Pick]
+[02:07:58] [Server thread/INFO]: luansantosfs has made the advancement [Isn't It Iron Pick]
+[02:09:21] [Server thread/INFO]: <30Ovos10Real> -364 90
+[02:09:33] [Server thread/INFO]: <RatoNinja> -350 100
+[02:09:52] [Server thread/INFO]: 30Ovos10Real has made the advancement [Isn't It Iron Pick]
+[02:10:48] [Server thread/INFO]: Sergio has made the advancement [Diamonds!]
+[02:15:35] [Server thread/INFO]: GuardaRoupa has made the advancement [A Seedy Place]
+[02:25:37] [Server thread/INFO]: 30Ovos10Real has made the advancement [Sneak 100]
+[02:25:43] [Server thread/INFO]: luansantosfs has made the advancement [Sneak 100]
+[02:29:16] [Server thread/INFO]: Sergio has made the advancement [A Seedy Place]
+[02:31:41] [Server thread/INFO]: 30Ovos10Real has made the advancement [Diamonds!]
+[02:34:25] [Server thread/INFO]: RatoNinja has made the advancement [Sweet Dreams]
+[02:36:10] [Server thread/INFO]: GuardaRoupa was blown up by Creeper
+[02:36:15] [Server thread/INFO]: GuardaRoupa lost connection: Disconnected
+[02:36:15] [Server thread/INFO]: GuardaRoupa left the game
+[02:40:37] [Server thread/INFO]: Sergio has made the advancement [Not Today, Thank You]
+[02:41:55] [Server thread/INFO]: Sergio has made the advancement [The Parrots and the Bats]
+[02:48:44] [Server thread/INFO]: luansantosfs was obliterated by a sonically-charged shriek
+[02:49:53] [Server thread/INFO]: RatoNinja has made the advancement [Best Friends Forever]
+[02:51:05] [Server thread/INFO]: luansantosfs was shot by Skeleton
+[02:52:25] [Server thread/INFO]: Sergio lost connection: Disconnected
+[02:52:25] [Server thread/INFO]: Sergio left the game
+[02:57:29] [Server thread/INFO]: <30Ovos10Real> -364 90
+[02:59:51] [Server thread/INFO]: luansantosfs was shot by Skeleton
+[03:12:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03:13:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16745ms or 334 ticks behind
+[03:13:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21976ms or 439 ticks behind
+[03:14:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18552ms or 371 ticks behind
+[03:14:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12810ms or 256 ticks behind
+[03:15:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9727ms or 194 ticks behind
+[03:15:27] [Server thread/INFO]: RatoNinja lost connection: Disconnected
+[03:15:27] [Server thread/INFO]: RatoNinja left the game
+[03:16:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[03:17:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9416ms or 188 ticks behind
+[03:17:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11688ms or 233 ticks behind
+[03:17:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8319ms or 166 ticks behind
+[03:18:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13511ms or 270 ticks behind
+[03:18:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10802ms or 216 ticks behind
+[03:19:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12714ms or 254 ticks behind
+[03:19:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8223ms or 164 ticks behind
+[03:20:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8333ms or 166 ticks behind
+[03:21:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[03:22:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8767ms or 175 ticks behind
+[03:22:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10768ms or 215 ticks behind
+[03:23:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10205ms or 204 ticks behind
+[03:23:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14075ms or 281 ticks behind
+[03:23:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8763ms or 175 ticks behind
+[03:24:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8693ms or 173 ticks behind
+[03:24:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7822ms or 156 ticks behind
+[03:25:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10461ms or 209 ticks behind
+[03:26:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03:27:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6924ms or 138 ticks behind
+[03:27:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8448ms or 168 ticks behind
+[03:27:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-240, y=97, z=198} gt{x=-240, y=97, z=197}
+[03:27:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-240, y=97, z=198} gt{x=-240, y=97, z=197}
+[03:27:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6769ms or 135 ticks behind
+[03:28:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8061ms or 161 ticks behind
+[03:28:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11732ms or 234 ticks behind
+[03:29:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10390ms or 207 ticks behind
+[03:29:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13331ms or 266 ticks behind
+[03:30:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10883ms or 217 ticks behind
+[03:30:54] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-564, y=75, z=294} gt{x=-565, y=73, z=294}
+[03:30:54] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-564, y=75, z=295} gt{x=-565, y=73, z=295}
+[03:30:54] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-564, y=75, z=295} gt{x=-565, y=73, z=295}
+[03:30:54] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-566, y=73, z=294} gt{x=-565, y=73, z=295}
+[03:31:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03:32:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9038ms or 180 ticks behind
+[03:32:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7743ms or 154 ticks behind
+[03:32:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6826ms or 136 ticks behind
+[03:33:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9780ms or 195 ticks behind
+[03:33:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6378ms or 127 ticks behind
+[03:33:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5625ms or 112 ticks behind
+[03:34:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9805ms or 196 ticks behind
+[03:34:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8647ms or 172 ticks behind
+[03:34:49] [Server thread/INFO]: luansantosfs has made the advancement [A Seedy Place]
+[03:35:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5819ms or 116 ticks behind
+[03:37:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[03:37:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9014ms or 180 ticks behind
+[03:37:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4544ms or 90 ticks behind
+[03:38:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5543ms or 110 ticks behind
+[03:38:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5820ms or 116 ticks behind
+[03:38:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4014ms or 80 ticks behind
+[03:39:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7480ms or 149 ticks behind
+[03:39:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7144ms or 142 ticks behind
+[03:39:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6015ms or 120 ticks behind
+[03:40:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4780ms or 95 ticks behind
+[03:41:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[03:42:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5496ms or 109 ticks behind
+[03:42:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3541ms or 70 ticks behind
+[03:42:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8389ms or 167 ticks behind
+[03:43:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7215ms or 144 ticks behind
+[03:43:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7001ms or 140 ticks behind
+[03:44:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8882ms or 177 ticks behind
+[03:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6663ms or 133 ticks behind
+[03:44:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6194ms or 123 ticks behind
+[03:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6711ms or 134 ticks behind
+[03:46:13] [Server thread/INFO]: luansantosfs lost connection: Disconnected
+[03:46:13] [Server thread/INFO]: luansantosfs left the game
+[03:46:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[03:47:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4421ms or 88 ticks behind
+[03:47:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4277ms or 85 ticks behind
+[03:47:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3276ms or 65 ticks behind
+[03:48:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3420ms or 68 ticks behind
+[03:48:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3052ms or 61 ticks behind
+[03:48:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2706ms or 54 ticks behind
+[03:48:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2768ms or 55 ticks behind
+[03:49:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3861ms or 77 ticks behind
+[03:49:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5474ms or 109 ticks behind
+[03:49:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5904ms or 118 ticks behind
+[03:50:05] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-286, y=108, z=-67} gt{x=-286, y=106, z=-65}
+[03:50:05] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-286, y=108, z=-68} gt{x=-286, y=106, z=-65}
+[03:50:10] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-284, y=104, z=-72} gt{x=-285, y=105, z=-72}
+[03:52:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[03:52:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15062ms or 301 ticks behind
+[03:53:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24299ms or 485 ticks behind
+[03:53:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8104ms or 162 ticks behind
+[03:54:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17504ms or 350 ticks behind
+[03:54:44] [Server thread/INFO]: <30Ovos10Real> -364 90
+[03:54:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12292ms or 245 ticks behind
+[03:55:04] [Server thread/INFO]: luansantosfs[/187.19.176.176:11569] logged in with entity id 68166 at (-342.3907863156492, 96.0, 133.23784911526346)
+[03:55:04] [Server thread/INFO]: luansantosfs joined the game
+[03:55:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11339ms or 226 ticks behind
+[03:55:28] [Server thread/INFO]: 30Ovos10Real was impaled by Drowned
+[03:56:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03:56:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9161ms or 183 ticks behind
+[03:57:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9336ms or 186 ticks behind
+[03:57:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14706ms or 294 ticks behind
+[03:58:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13375ms or 267 ticks behind
+[03:58:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6873ms or 137 ticks behind
+[03:58:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13367ms or 267 ticks behind
+[03:58:55] [Server thread/INFO]: 30Ovos10Real lost connection: Disconnected
+[03:58:55] [Server thread/INFO]: 30Ovos10Real left the game
+[03:58:59] [Server thread/INFO]: luansantosfs lost connection: Disconnected
+[03:58:59] [Server thread/INFO]: luansantosfs left the game
