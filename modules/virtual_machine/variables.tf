@@ -20,3 +20,7 @@ variable "subnet_id" {
 variable "security_group_id" {
   description = "Id do Security Group"
 }
+
+variable "key_name" {
+  description = "Nome da par de chave SSH da maquina"
+}
