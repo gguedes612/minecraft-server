@@ -3,4 +3,4 @@ sudo apt update
 sudo apt install -y git
 sudo apt install openjdk-17-jdk -y
 cd /home/ubuntu
-java -Xmx2048M -Xms1024M -jar server.jar nogui
+java -Xmx4096M -Xms2048M -jar server.jar nogui
